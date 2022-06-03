@@ -1,0 +1,7 @@
+com\mkyong\util\Hibernateutil.class
+com\mkyong\app\App.class
+com\mkyong\stock\StockDailyRecord.class
+com\database\DatabaseOperator.class
+com\login\Login.class
+com\login\User.class
+com\mkyong\stock\Stock.class
